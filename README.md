@@ -1,15 +1,20 @@
 ## This is my End to End file.
 
-### First initialise the git.
+## Create a README.md file to add steps
+
+### First initialise the git on terminal.
 
 ```
 git init
 ```
 
+### To push your repository to github
 ```
 git add .
 ```
-### To pull your file from github 
+### Create .gitignore file and LICENCE file on github 
+
+### To pull your files from github 
 
 ```
 git pull
