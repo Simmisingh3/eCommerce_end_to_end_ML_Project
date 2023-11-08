@@ -30,7 +30,7 @@ git commit -m "This is my First commit"
 bash your_file_name.sh
 ```
 
-# To install the local package that is DiamondPricePrdiction, there are 2 ways
+# To install the local package that is CustomerReview, there are 2 ways
 ```
 python setup.py install
 ```
