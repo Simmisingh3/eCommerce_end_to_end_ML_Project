@@ -17,7 +17,8 @@ list_of_files = [
     f"src/{package_name}/exception.py",
     f"src/{package_name}/utils/__init__.py",
     "notebooks/research.ipynb",
-    "notebooks/EDA.ipynb"
+    "notebooks/EDA.ipynb",
+    "notebooks/model_pipeline.ipynb",
     "notebooks/data/.gitkeep",
     "requirements.txt",
     "setup.py",

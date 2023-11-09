@@ -46,7 +46,7 @@ bash your_file_name.sh
 ``` 
 bash init_setup.sh
 ```
-6. Sometimes you need to write mannually on git bash
+6. Sometimes you need to activate environment mannually on git bash
 ```
 source activate ./env
 ```
