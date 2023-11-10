@@ -1,4 +1,4 @@
-## This is my End to End file.
+## This is my eCommerce End to End Machine Learning Project.
 
 ## Create a README.md file to add steps
 
