@@ -76,3 +76,4 @@ Steps:
 3. Model Training
 4. Training Pipeline
 5. Prediction pipeline
+After this we need to write the html codes.
